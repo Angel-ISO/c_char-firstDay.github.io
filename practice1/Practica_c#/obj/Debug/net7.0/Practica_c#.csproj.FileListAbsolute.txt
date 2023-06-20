@@ -1,0 +1,15 @@
+/home/apolm01-007/Documents/c_char-firstDay.github.io/practice1/Practica_c#/bin/Debug/net7.0/Practica_c#
+/home/apolm01-007/Documents/c_char-firstDay.github.io/practice1/Practica_c#/bin/Debug/net7.0/Practica_c#.deps.json
+/home/apolm01-007/Documents/c_char-firstDay.github.io/practice1/Practica_c#/bin/Debug/net7.0/Practica_c#.runtimeconfig.json
+/home/apolm01-007/Documents/c_char-firstDay.github.io/practice1/Practica_c#/bin/Debug/net7.0/Practica_c#.dll
+/home/apolm01-007/Documents/c_char-firstDay.github.io/practice1/Practica_c#/bin/Debug/net7.0/Practica_c#.pdb
+/home/apolm01-007/Documents/c_char-firstDay.github.io/practice1/Practica_c#/obj/Debug/net7.0/Practica_c#.csproj.AssemblyReference.cache
+/home/apolm01-007/Documents/c_char-firstDay.github.io/practice1/Practica_c#/obj/Debug/net7.0/Practica_c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-007/Documents/c_char-firstDay.github.io/practice1/Practica_c#/obj/Debug/net7.0/Practica_c#.AssemblyInfoInputs.cache
+/home/apolm01-007/Documents/c_char-firstDay.github.io/practice1/Practica_c#/obj/Debug/net7.0/Practica_c#.AssemblyInfo.cs
+/home/apolm01-007/Documents/c_char-firstDay.github.io/practice1/Practica_c#/obj/Debug/net7.0/Practica_c#.csproj.CoreCompileInputs.cache
+/home/apolm01-007/Documents/c_char-firstDay.github.io/practice1/Practica_c#/obj/Debug/net7.0/Practica_c#.dll
+/home/apolm01-007/Documents/c_char-firstDay.github.io/practice1/Practica_c#/obj/Debug/net7.0/refint/Practica_c#.dll
+/home/apolm01-007/Documents/c_char-firstDay.github.io/practice1/Practica_c#/obj/Debug/net7.0/Practica_c#.pdb
+/home/apolm01-007/Documents/c_char-firstDay.github.io/practice1/Practica_c#/obj/Debug/net7.0/Practica_c#.genruntimeconfig.cache
+/home/apolm01-007/Documents/c_char-firstDay.github.io/practice1/Practica_c#/obj/Debug/net7.0/ref/Practica_c#.dll
